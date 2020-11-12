@@ -1,2 +1,7 @@
-# API_CETI
-Es una api que se utilizara para generar una descripción de los docentes del plantel CETI - Colomos
+# Bienvenido a la API de CETI - Colomos
+
+creado por: 
+> 	 - Kevin Guillermo Carrillo GonzáLez
+> 	 - Istvan Alberto Moreno Rubio
+
+*Version 1.0*
