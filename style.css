@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    font-family: 'Montserrat';
+    font-size: 22px;
+    color: #333;
+}
+
+.header{
+    background: rgb(238, 238, 238);
+    height: 9rem;
+    display: flex;
+}
+
+.header img{
+    height: 70px;
+    width: 70px;
+    margin: 15px 0px 30px 35px;
+}
+
+.header h1{
+    margin: auto 0 auto 30px;
+}
+
+.content{
+    padding: 30px 0px 30px 0px;
+    flex: 1;
+    display: flex;
+    height: inherit;
+}
+
+#messages{
+    font-size: 14px;
+}
+
+#loadDocentes{
+    display: block;
+    align-items: center;
+    width: 25%;
+    border-radius: 10px;
+    transition: all 500ms;
+}
+
+#loadDocentes:hover{
+    color: #ccc;
+    background: #333;
+}
+
+.footer{
+    background: rgb(238, 238, 238);
+    color: #444;
+    height: 6rem;
+    margin-top: auto;
+    padding: 30px;
+}
+
+.footer h4{
+    text-align: center;
+    margin: auto;
+}
